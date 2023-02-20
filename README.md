@@ -1,7 +1,7 @@
 ## Olá Eu sou o Lucas 👋
 
-- 🔭 Desenvolvimento Front-end
-- 🌱 Estudando React.js e desenvolvimento Back-end
+- 🔭 Desenvolvimento Back-end
+- 🌱 Estudando Spring e microsserviços
 
 <div align="center">
   <a href="https://github.com/DevLucas-Almeida">
